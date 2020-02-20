@@ -1,0 +1,53 @@
+description: RAFFAELLO, ALMOND COCONUT TREAT, fdcId: 415269, gtinUpc: 009800146130
+
+description: BEANS, fdcId: 548596, gtinUpc: 041303072547
+description: BEANS, fdcId: 444892, gtinUpc: 720579806048
+description: Chili beans, barbecue beans, ranch style beans or Mexican- style beans, fdcId: 339277
+description: Bean dip, made with refried beans, fdcId: 339293
+description: Pork and beans, fdcId: 339298
+description: Rice with beans, fdcId: 341206
+description: Beans and franks, fdcId: 339296
+description: Bean salad, yellow and/or green string beans, fdcId: 343417
+description: Bean cake, fdcId: 339301
+description: Beans, liquid from stewed kidney beans, fdcId: 169885
+description: Bean paste, sweetened, fdcId: 343999
+description: Rice with beans and tomatoes, fdcId: 341207
+description: Bean soup, NFS, fdcId: 339374
+description: Rice with beans and beef, fdcId: 341209
+description: Rice with beans and chicken, fdcId: 341208
+description: Rice with beans and pork, fdcId: 341210
+description: Rice, brown, with beans, fdcId: 341250
+description: Refried beans with meat, fdcId: 339291
+description: Baked beans, NFS, fdcId: 339275
+description: Baked beans, vegetarian, fdcId: 339276
+description: Beans, lima, raw, fdcId: 342597
+description: Black bean salad, fdcId: 339281
+description: Black bean sauce, fdcId: 339295
+description: Boston baked beans, fdcId: 339282
+description: Burrito with beans, meatless, fdcId: 340778
+description: Burrito with chicken and beans, fdcId: 340772
+description: Burrito with meat and beans, fdcId: 340764
+description: Chili with beans, canned, fdcId: 175207
+description: ON THE BORDER, refried beans, fdcId: 169032
+description: Pupusa, bean-filled, fdcId: 340875
+description: Red beans and rice, fdcId: 341211
+description: Refried beans with cheese, fdcId: 339290
+description: Soft taco with beans, fdcId: 340809
+description: Taco or tostada with beans, fdcId: 340815
+description: Yardlong bean, raw, fdcId: 169222
+description: Bean soup, mixed beans, home recipe, canned or ready-to-serve, fdcId: 339383
+description: Beans, string, green, with pinto beans, cooked, fat not added in cooking, fdcId: 343412
+description: Beans, string, green, with pinto beans, cooked, fat added in cooking, fdcId: 343413
+description: Rice, brown, with beans and tomatoes, fdcId: 341251
+description: Refried beans, made with oil, fdcId: 339284
+description: Chili con carne with beans, fdcId: 337971
+description: Refried beans, made with margarine, fdcId: 339286
+description: Beans, string, green, with pinto beans, cooked, NS as to fat added in cooking, fdcId: 343411
+description: Bean soup, home recipe, fdcId: 339384
+description: Beans, baked, canned, with beef, fdcId: 175183
+description: Beans, baked, canned, with franks, fdcId: 175184
+description: Beans, baked, canned, with pork, fdcId: 175185
+description: Beans, baked, home prepared, fdcId: 173731
+description: Beans, dry, cooked with pork, fdcId: 339299
+description: Beans, fava, in pod, raw, fdcId: 168574
+
